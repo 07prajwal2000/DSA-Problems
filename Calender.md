@@ -2,8 +2,11 @@
 ### This is for my tracking progress. 
 <img src="./static/progress-bar.gif" height="40px" />
 
+### Monthly Target - ~100 Problems. 34/100
+
 | Date | Problems Solved |
 |---|---|
+| 15-3-23 | 5 |
 | 14-3-23 | 5 |
 | 13-3-23 | 8 |
 | 10-3-23 | 2 |
