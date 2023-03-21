@@ -2,10 +2,11 @@
 
 ### This is for my tracking progress. 
 - ### <img src="https://assets.leetcode.com/study_plan/algorithm/cover.png" width="25px" style="margin-right:5px;" /> [Started a 14 day study plan](https://leetcode.com/study-plan/algorithm/?progress=xzppl9i2). 
-- ### Completed 1/14 Days
-- ### Monthly Target - ~70 Problems. 48/70
+- ### Completed 2/14 Days
+- ### Monthly Target - ~70 Problems. 51/70
 | Date | Problems Solved |
 |---|---|
+| 20-3-23 | 2 |
 | 20-3-23 | 4 |
 | 19-3-23 | 4 |
 | 17-3-23 | 3 |

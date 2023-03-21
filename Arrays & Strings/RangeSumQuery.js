@@ -1,11 +1,12 @@
 /**
  * @param {number[]} nums
  */
- var NumArray = function(nums) {
+var NumArray = function(nums) {
   this.prevSum = [];
-  let prev = nums[i-1] || 0;
+  let prev = 0;
   nums.forEach((x, i) => {
-      this.prevSum.push(prev + x);
+      prev += x;
+      this.prevSum.push(prev);
   });
 };
 
@@ -17,7 +18,7 @@
 NumArray.prototype.sumRange = function(left, right) {
   let l = this.prevSum[left-1] || 0;
   let r = this.prevSum[right];
-  return l + r;
+  return r - l;
 };
 
 /** 
