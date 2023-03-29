@@ -1,4 +1,4 @@
-function TreeNode(left, right, value) {
+function TreeNode(value, left, right) {
   this.left = left;
   this.right = right;
   this.value = value;
@@ -62,16 +62,23 @@ function TreeNode(left, right, value) {
     }
   }
 }
-const l2 = new TreeNode(null, null, 52);
-const r2 = new TreeNode(null, null, 20);
 
-const l3 = new TreeNode(null, null, 12);
-const r3 = new TreeNode(null, null, 8);
-
-const l1 = new TreeNode(l2, r2, 50)
-const r1 = new TreeNode(l3, r3, 5)
-
-const head = new TreeNode(l1, r1, 2);
+const head = buildTree([1, 2, 3, 4, null, 5, 6]);
 // head.dfs(head);
 head.bfsPreorder(head);
 // console.log(head.value);
+
+function buildTree(arr) {
+  let i = -1;
+  function build() {
+    i++;
+    if (i >= arr.length || arr[i] === null) {
+      return null;
+    }
+    let n = new TreeNode(arr[i]);
+    n.left = build();
+    n.right = build();
+    return n;
+  }
+  return build();
+}

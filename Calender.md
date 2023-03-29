@@ -2,7 +2,7 @@
 
 ### This is for my tracking progress. 
 - ### <img src="https://assets.leetcode.com/study_plan/algorithm/cover.png" width="25px" style="margin-right:5px;" /> [Started a 14 day study plan](https://leetcode.com/study-plan/algorithm/?progress=xzppl9i2). 
-- ### Highest streak - 10 problems on 25-3-23
+- ### Highest streak - 12 problems on 29-3-23
 - ### Completed 8/14 Days
 - ### Monthly Target - ~70 Problems.
 - ### Data Structures:
