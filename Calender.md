@@ -1,10 +1,10 @@
-## Days and Total solved problems
+# PROGRESS <img src="https://media.tenor.com/-r1FcJGxGFMAAAAM/loading-bar.gif" width="80px" />
 
-### This is for my tracking progress. 
-- ### <img src="https://assets.leetcode.com/study_plan/algorithm/cover.png" width="25px" style="margin-right:5px;" /> [Started a 14 day study plan](https://leetcode.com/study-plan/algorithm/?progress=xzppl9i2). 
+### This is for my tracking progress.
 - ### Highest streak - 12 problems on 29-3-23
-- ### Completed 13/14 Days
 - ### Monthly Target - ~70 Problems.
-- ### Data Structures:
-    1. [Binary Trees](./Data%20Structures/BinaryTrees/) <br/> <img src="./Data%20Structures/BinaryTrees/Binary%20Tree%20Representation.png" width="70px" />
-    2. Queue
+    - #### ✔️ March > 70 Problems 
+- ## BADGES COLLECTION 🎖️
+    <img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="80px" />
+- ### Data Structures Implemented:
+    - [Binary Trees](./Data%20Structures/BinaryTrees/) <br/> <img src="./Data%20Structures/BinaryTrees/Binary%20Tree%20Representation.png" width="70px" />
