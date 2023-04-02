@@ -2,6 +2,9 @@
 
 ### This is for my tracking progress.
 - ### Highest streak - 12 problems on 29-3-23
+### Started Dynamic Programming 21 Days & Leetcode 75 Study plan.
+    - #### DP - 1/21 Days
+    - #### Leetcode 75 - 1/15 Days
 - ### Monthly Target - ~70 Problems.
     - #### ✔️ March > 70 Problems 
 - ## BADGES COLLECTION 🎖️
