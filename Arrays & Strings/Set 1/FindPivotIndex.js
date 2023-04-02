@@ -3,22 +3,18 @@
  * @return {number}
  */
 var pivotIndex = function (nums) {
-	let totalSum = 0;
-  let leftSum = 0;
-	
-	nums.forEach((x) => (totalSum += x));
-  let idx = -1;
+	let total = nums.reduce((a, b) => a + b);
+	let leftSum = 0;
 	for (let i = 0; i < nums.length; i++) {
-    let x = nums[i];
-		let rightSum = totalSum - x - leftSum;
+		let n = nums[i];
+		let rightSum = total - n - leftSum;
 		if (leftSum === rightSum) {
-      idx = i;
-			break;
+			return i;
 		}
-		leftSum += x;
+		leftSum += n;
 	}
-	return idx;
+	return -1;
 };
 
-console.log(pivotIndex([-1,-1,-1,-1,-1,0])); // 2
+console.log(pivotIndex([-1, -1, -1, -1, -1, 0])); // 2
 console.log(pivotIndex([1, 7, 3, 6, 5, 6])); // 3
