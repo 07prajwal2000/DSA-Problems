@@ -1,3 +1,4 @@
+// Boyer–Moore Majority Vote Algorithm
 var majority = (arr) => {
   const n = arr.length;
   let count = 1, res = 0;
