@@ -3,7 +3,7 @@
 long long power(int n, int R)
 {
     long mod = 1e9+7L;
-    // Your code here
+    
     long long res = 1;
     long long N = n;
 
