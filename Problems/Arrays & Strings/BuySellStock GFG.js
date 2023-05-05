@@ -1,5 +1,5 @@
 var stockBuySell = (a, n) => {
-	//your code here
+	
 	let buy = 0, sell = 0;
   let ans = [];
 	for (let i = 0; i < n - 1; i++) {
