@@ -26,3 +26,5 @@ function getTotalHours(piles, mid) {
 	}
 	return hrs;
 }
+
+console.log(minEatingSpeed([30,11,23,4,20], 5)); // output: 30
