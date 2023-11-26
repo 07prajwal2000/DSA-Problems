@@ -12,5 +12,4 @@
 
 -   [![Leetcode](https://leetcode.com/_next/static/images/logo-large-dark-94099a3702daad8363bf79c3faef5a3f.png)](https://leetcode.com/07prajwal2000/)
 -   [![GFG](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)](https://auth.geeksforgeeks.org/user/07prajwal2000/)
--   [![GFG](static/coding_ninjas.png)](https://www.codingninjas.com/codestudio/profile/f6a4ba8c-736f-460e-be4e-b430bd3a8339 | width=150px)
-
+-   <a target="_blank" href="https://www.codingninjas.com/codestudio/profile/f6a4ba8c-736f-460e-be4e-b430bd3a8339"> <img width="100px" src="static/coding_ninjas.png"><a/>
