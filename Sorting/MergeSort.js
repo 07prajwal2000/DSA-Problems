@@ -37,9 +37,10 @@ var mergeSort = (arr, low = 0, high = arr.length - 1) => {
 };
 
 const arr = [3, 1, 4, 2, 6, 5];
-for (let i = 0; i < 10_000; i++) {
-  arr.push(parseInt(Math.random() * 100_000));
-}
-let timeStamp = new Date()
+// for (let i = 0; i < 3; i++) {
+//   arr.push(parseInt(Math.random() * 10));
+// }
+
+console.log("Before: ", arr);
 mergeSort(arr);
-console.log(new Date() - timeStamp);
+console.log("After: ", arr);
