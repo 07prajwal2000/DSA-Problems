@@ -2,11 +2,7 @@
 
 ### Following [Striver's SDE sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
-<br/>
-
 #### [Google Sheet Summaries](https://docs.google.com/spreadsheets/d/1SGiUvTrbQ50yk86d70B5YKVhzoHcBwUUG6oJP_siHrI/edit?usp=sharing)
-
-<br/>
 
 ## PLATFORM PROFILE URL
 
